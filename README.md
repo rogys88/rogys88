@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Rogério Silva</h1>
+</div>
+<div align="center">
+  <p> Welcome to my dev space {🙂}...I'm a Mobile Developer since 2014, I’ve spent most of my work developing native iOS Apps and leading them. I have experience in native development (iOS & Android) and also cross platform using Flutter.
+I really enjoy mobile development and passionate for building solutions. </p>
+</div>
+
 
 <!--
 **rogys88/rogys88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
